@@ -133,7 +133,7 @@ export default function Home() {
   </div>
 
   <div className="col-auto">
-    <button type="submit" className="btn btn-warning mb-3">Confirm identity</button>
+    <button type="submit" className="btn btn-warning mb-3">Get Notification</button>
   </div>
 </form>
 </section>

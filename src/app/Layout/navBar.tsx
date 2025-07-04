@@ -17,7 +17,7 @@ export default function NavBar() {
     <div className="collapse navbar-collapse justify-content-center" id="navbarNav">
       <ul className="navbar-nav ">
         <li className="nav-item">
-          <Link className="nav-link active" aria-current="page" href="/app">Home</Link>
+          <Link className="nav-link active" aria-current="page" href="/">Home</Link>
         </li>
         <li className="nav-item">
         <Link className="nav-link " aria-current="page" href="/Services">Services</Link>
